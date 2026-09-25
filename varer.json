@@ -1,0 +1,42 @@
+[
+  {
+    "VNr": 1001,
+    "Betegnelse": "Blyant",
+    "Pris": 12.5,
+    "KatNr": 10,
+    "Antall": 48,
+    "Hylle": "A1"
+  },
+  {
+    "VNr": 1002,
+    "Betegnelse": "Kulepenn",
+    "Pris": 24.9,
+    "KatNr": 10,
+    "Antall": 35,
+    "Hylle": "A2"
+  },
+  {
+    "VNr": 1003,
+    "Betegnelse": "Linjal 30 cm",
+    "Pris": 39.9,
+    "KatNr": 11,
+    "Antall": 16,
+    "Hylle": "B1"
+  },
+  {
+    "VNr": 1004,
+    "Betegnelse": "Notatbok",
+    "Pris": 59.9,
+    "KatNr": 12,
+    "Antall": 22,
+    "Hylle": "B2"
+  },
+  {
+    "VNr": 1005,
+    "Betegnelse": "Viskelær",
+    "Pris": 9.9,
+    "KatNr": 10,
+    "Antall": 64,
+    "Hylle": "A3"
+  }
+]
