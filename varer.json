@@ -4,6 +4,7 @@
     "Betegnelse": "Blyant",
     "Pris": 12.5,
     "KatNr": 10,
+    "Underkategori": "Skrivesaker",
     "Antall": 48,
     "Hylle": "A1"
   },
@@ -12,6 +13,7 @@
     "Betegnelse": "Kulepenn",
     "Pris": 24.9,
     "KatNr": 10,
+    "Underkategori": "Skrivesaker",
     "Antall": 35,
     "Hylle": "A2"
   },
@@ -20,6 +22,7 @@
     "Betegnelse": "Linjal 30 cm",
     "Pris": 39.9,
     "KatNr": 11,
+    "Underkategori": "Måleverktøy",
     "Antall": 16,
     "Hylle": "B1"
   },
@@ -28,6 +31,7 @@
     "Betegnelse": "Notatbok",
     "Pris": 59.9,
     "KatNr": 12,
+    "Underkategori": "Papirvarer"
     "Antall": 22,
     "Hylle": "B2"
   },
@@ -36,6 +40,7 @@
     "Betegnelse": "Viskelær",
     "Pris": 9.9,
     "KatNr": 10,
+    "Underkategori": "skrivesakeer",
     "Antall": 64,
     "Hylle": "A3"
   }
